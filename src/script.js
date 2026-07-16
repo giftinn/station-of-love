@@ -50,14 +50,14 @@ html:`
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 <img src="src/1.jpg" class="filmPic">
 <img src="src/2.jpg" class="filmPic">
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 </div>
 </div>
@@ -109,16 +109,12 @@ html:`
 
 <span class="signal">TRANSMISSION START</span><br><br>
 
-TRANSMISSION START
+Sayang, selamat membaca ya. Maaf apabila pesannya berantakan, dasarnya bukan keahlian aku dalam merangkai kata menjadi klausa apalagi paragraf, poin plus susah bagi aku menunjukkan afeksi ke orang lain, i also never expected that i would find myself drawn to you. In so many ways, you remind me of myself, like we’re the same person living different lives. After i realized about that aku punya keinginan buat melindungi kamu karena aku melihat diri aku sendiri zu. I am slowly becoming the person i wished to have, and you are the person I’ve never thought i would ever need. When I’m with you, i don’t feel lost anymore bb, or worry about judgement even making the wrong decision, because nothing feels like it could go wrong when i'm with you WKWK bisa aku ngetiknya? (Zu jujur aku ambil referensinya di scribd) 
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Sometimes I wonder if you notice how softly you exist inside my universe.
-Sometimes I wonder if you notice how softly you exist inside my universe.
+I once thought i had to protect you, but in fact you’re the one protecting me, healing parts of me i didn’t even know were hurting. You understand me in ways i can’t even understand myself. Di saat aku terlalu mati-matian ngejar validasi dari orang lain, menekan diri untuk selalu unggul, aku justru menemukan diri aku menerima kenyataan bahwa aku ga sesempurna itu karena aku diajarin sama kamu.
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Not loud. Not chaotic.
+I hope love keeps us honest zu, sebagaimana yg dibilang sama Novo, I hope it keeps us kind. And even as it changes us, I hope it keeps our hearts genuine still capable of loving without conditions yaa.
 
-But like late night radio waves that stay playing even when the world sleeps.
-
-END SIGNAL
 <span class="signal">END SIGNAL</span>
 
 </div>
